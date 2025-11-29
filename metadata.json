@@ -1,0 +1,5 @@
+{
+  "name": "Construction Workforce Dashboard",
+  "description": "An AI-powered dashboard for analyzing worker allocation, dynamics, and providing executive summaries using Gemini.",
+  "requestFramePermissions": []
+}
